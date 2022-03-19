@@ -1,0 +1,7 @@
+//tài khoản khách hàng 1
+tên đăng nhập :234161298
+mật khẩu:taikhoan
+
+//tài khoản khách hàng2
+tên đăng nhập:321877412
+mật khẩu:root1
